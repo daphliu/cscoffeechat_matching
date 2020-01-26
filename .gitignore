@@ -1,4 +1,5 @@
 sendgrid.env
 credentials.json
+previous_matches/
 signup_data/
 .idea/
